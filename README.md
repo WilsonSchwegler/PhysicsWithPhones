@@ -60,10 +60,10 @@ Each sensor module includes a dedicated visualization screen designed to clearly
 ## Screenshots
 
 ### Sensor Selection Interface
-<img src="docs/images/sensors_dark.png" width="300">
+<img src="docs/images/sensors_dark.png" width="250">
 
 ### Light Mode Interface
-![Sensor Menu Light](docs/images/sensors_light.png)
+<img src="docs/images/sensors_light.png" width="250">
 
 *(Screenshots demonstrate the sensor navigation layout and visual consistency across themes.)*
 
