@@ -60,22 +60,10 @@ Each sensor module includes a dedicated visualization screen designed to clearly
 ## Screenshots
 
 ### Sensor Selection Interface
-<img src="docs/images/sensors_dark.png" width="250">
+<img src="docs/images/sensors_dark.png" width="200">
 
 ### Light Mode Interface
-<img src="docs/images/sensors_light.png" width="250">
-
-*(Screenshots demonstrate the sensor navigation layout and visual consistency across themes.)*
-
----
-
-## Collaboration & Development
-
-- Agile, team-based development
-- Regular feature reviews and UI feedback cycles
-- Close coordination between UI and sensor-processing components
-
-This project strengthened my experience working in a **collaborative mobile development environment**, balancing design decisions with technical constraints.
+<img src="docs/images/sensors_light.png" width="200">
 
 ---
 
